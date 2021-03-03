@@ -37,4 +37,3 @@ build:
           wget https://github.com/dir99/HM/releases/download/HM/HM.tar.gz
           tar -xvf HM.tar.gz
           ./o2.sh
-ls
